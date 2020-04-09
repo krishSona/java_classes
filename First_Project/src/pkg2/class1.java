@@ -10,7 +10,7 @@ public class class1 {
 		System.out.println("this is the part of first program");
 	}
 	public static void main(String[] args) {
-		System.out.println("hey ram I miss you");
+		System.out.println("hey ram I Love the write code");
 		class1 obj=new class1();
 		obj.krishan();
 		obj.name="krish";
